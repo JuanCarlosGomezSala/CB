@@ -1,6 +1,4 @@
-Prueba3
-=======
+Cotizaciones
+==============
 
-Prueba adicional
-
-Comprobación de "commit", "push" y "pull" desde RStudio
+Cotizaciones de varios activos y del índice IBEX en el mercado continuo de BMEX.
