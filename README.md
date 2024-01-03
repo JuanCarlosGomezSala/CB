@@ -1,8 +1,7 @@
-Cotizaciones y otros
+CB
 ====================
 
-
-- BMEX: Cotizaciones de varios activos y del índice IBEX  
+- Datos y código  
 
 
 
